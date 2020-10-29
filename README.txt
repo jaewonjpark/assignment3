@@ -1,7 +1,7 @@
 1.) Identifying Information
 Jaewon Park
 2328614
-CPSC 350 - 02
+CPSC 350 - 01
 Assignment #3
 
 2.) Source Code File

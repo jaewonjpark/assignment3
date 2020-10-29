@@ -1,5 +1,5 @@
 //Jaewon Park
-//CPSC 350 - 02
+//CPSC 350 - 01
 //jaepark@chapman.edu
 
 #include <iostream>
